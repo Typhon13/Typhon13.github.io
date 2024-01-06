@@ -16,10 +16,10 @@ timezone: Asia/Dhaka
 
 title: Ahon's Website # the main title
 
-tagline: Shifat gae # it will display as the sub-title
+tagline: Arnob gae # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Shifat gae.
+  Arnob gae.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
