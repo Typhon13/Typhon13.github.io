@@ -16,10 +16,10 @@ timezone: Asia/Dhaka
 
 title: Ahon's Website # the main title
 
-tagline: Arnob gae # it will display as the sub-title
+tagline: Shifat gae # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Arnob gae.
+  Shifat gae.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.redd.it/0safr93ogd5b1.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
